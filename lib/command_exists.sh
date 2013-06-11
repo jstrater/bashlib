@@ -1,4 +1,5 @@
-# Cross-platform way to check if a command (shell function or executable) exists without any output.
+# Cross-platform way to check if a command (shell function or executable)
+# exists without any output.
 #
 # Examples:
 #   $ command_exists ls
